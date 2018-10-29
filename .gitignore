@@ -1,0 +1,11 @@
+node_modules/
+
+.idea/
+.tags
+.tags1
+npm-debug.log
+build/
+build_lib/
+package-lock.json
+
+.idea
